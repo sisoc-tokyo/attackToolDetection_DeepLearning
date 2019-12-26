@@ -1,0 +1,4 @@
+file_name: 00_train.csv, epoch: 100, n: 9
+N: 1365
+Recall: 0.961, Precision: 0.925, Accuracy: 0.996
+

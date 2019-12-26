@@ -1,0 +1,165 @@
+/Users/watarium/.pyenv/versions/anaconda3-4.3.0/bin/python /Users/watarium/PycharmProjects/sysmon_lstm/for_paper/evaluation.py
+Using TensorFlow backend.
+2019-12-24 18:56:23.955542: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Noise_rate: 05 n: 1
+Recall: 0.922 Precision: 0.959 Accuracy: 0.996
+Noise_rate: 05 n: 2
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 05 n: 3
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+Noise_rate: 05 n: 4
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+Noise_rate: 05 n: 5
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+Noise_rate: 05 n: 6
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+Noise_rate: 05 n: 7
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+Noise_rate: 05 n: 8
+Recall: 0.863 Precision: 0.978 Accuracy: 0.994
+Noise_rate: 05 n: 9
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 05 n: 10
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+Noise_rate: 10 n: 1
+Recall: 0.922 Precision: 0.940 Accuracy: 0.995
+Noise_rate: 10 n: 2
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+Noise_rate: 10 n: 3
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+Noise_rate: 10 n: 4
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 10 n: 5
+Recall: 0.902 Precision: 0.939 Accuracy: 0.994
+Noise_rate: 10 n: 6
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+Noise_rate: 10 n: 7
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+Noise_rate: 10 n: 8
+Recall: 0.941 Precision: 0.923 Accuracy: 0.995
+Noise_rate: 10 n: 9
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+Noise_rate: 10 n: 10
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 15 n: 1
+Recall: 0.863 Precision: 1.000 Accuracy: 0.995
+Noise_rate: 15 n: 2
+Recall: 0.843 Precision: 0.915 Accuracy: 0.991
+Noise_rate: 15 n: 3
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 15 n: 4
+Recall: 0.882 Precision: 0.978 Accuracy: 0.995
+Noise_rate: 15 n: 5
+Recall: 0.902 Precision: 0.939 Accuracy: 0.994
+Noise_rate: 15 n: 6
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 15 n: 7
+Recall: 0.882 Precision: 0.978 Accuracy: 0.995
+Noise_rate: 15 n: 8
+Recall: 0.882 Precision: 1.000 Accuracy: 0.996
+Noise_rate: 15 n: 9
+Recall: 0.902 Precision: 0.939 Accuracy: 0.994
+Noise_rate: 15 n: 10
+Recall: 0.922 Precision: 0.940 Accuracy: 0.995
+Noise_rate: 20 n: 1
+Recall: 0.843 Precision: 0.956 Accuracy: 0.993
+Noise_rate: 20 n: 2
+Recall: 0.784 Precision: 0.952 Accuracy: 0.990
+Noise_rate: 20 n: 3
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+Noise_rate: 20 n: 4
+Recall: 0.882 Precision: 0.978 Accuracy: 0.995
+Noise_rate: 20 n: 5
+Recall: 0.843 Precision: 0.878 Accuracy: 0.990
+Noise_rate: 20 n: 6
+Recall: 0.804 Precision: 1.000 Accuracy: 0.993
+Noise_rate: 20 n: 7
+Recall: 0.824 Precision: 0.977 Accuracy: 0.993
+Noise_rate: 20 n: 8
+Recall: 0.824 Precision: 0.977 Accuracy: 0.993
+Noise_rate: 20 n: 9
+Recall: 0.843 Precision: 1.000 Accuracy: 0.994
+Noise_rate: 20 n: 10
+Recall: 0.824 Precision: 1.000 Accuracy: 0.993
+Noise_rate: 25 n: 1
+Recall: 0.745 Precision: 0.974 Accuracy: 0.990
+Noise_rate: 25 n: 2
+Recall: 0.765 Precision: 0.867 Accuracy: 0.987
+Noise_rate: 25 n: 3
+Recall: 0.804 Precision: 0.953 Accuracy: 0.991
+Noise_rate: 25 n: 4
+Recall: 0.667 Precision: 0.971 Accuracy: 0.987
+Noise_rate: 25 n: 5
+Recall: 0.686 Precision: 0.897 Accuracy: 0.985
+Noise_rate: 25 n: 6
+Recall: 0.863 Precision: 0.978 Accuracy: 0.994
+Noise_rate: 25 n: 7
+Recall: 0.784 Precision: 0.952 Accuracy: 0.990
+Noise_rate: 25 n: 8
+Recall: 0.765 Precision: 1.000 Accuracy: 0.991
+Noise_rate: 25 n: 9
+Recall: 0.804 Precision: 0.976 Accuracy: 0.992
+Noise_rate: 25 n: 10
+Recall: 0.667 Precision: 1.000 Accuracy: 0.988
+Noise_rate: 30 n: 1
+Recall: 0.667 Precision: 0.971 Accuracy: 0.987
+Noise_rate: 30 n: 2
+Recall: 0.725 Precision: 0.925 Accuracy: 0.988
+Noise_rate: 30 n: 3
+Recall: 0.725 Precision: 0.974 Accuracy: 0.989
+Noise_rate: 30 n: 4
+Recall: 0.765 Precision: 0.929 Accuracy: 0.989
+Noise_rate: 30 n: 5
+Recall: 0.784 Precision: 0.930 Accuracy: 0.990
+Noise_rate: 30 n: 6
+Recall: 0.725 Precision: 0.902 Accuracy: 0.987
+Noise_rate: 30 n: 7
+Recall: 0.686 Precision: 0.972 Accuracy: 0.988
+Noise_rate: 30 n: 8
+Recall: 0.765 Precision: 0.929 Accuracy: 0.989
+Noise_rate: 30 n: 9
+Recall: 0.627 Precision: 0.889 Accuracy: 0.983
+Noise_rate: 30 n: 10
+Recall: 0.667 Precision: 0.971 Accuracy: 0.987
+Noise_rate: 35 n: 1
+Recall: 0.549 Precision: 0.933 Accuracy: 0.982
+Noise_rate: 35 n: 2
+Recall: 0.608 Precision: 0.939 Accuracy: 0.984
+Noise_rate: 35 n: 3
+Recall: 0.745 Precision: 0.905 Accuracy: 0.988
+Noise_rate: 35 n: 4
+Recall: 0.725 Precision: 1.000 Accuracy: 0.990
+Noise_rate: 35 n: 5
+Recall: 0.647 Precision: 0.943 Accuracy: 0.985
+Noise_rate: 35 n: 6
+Recall: 0.549 Precision: 0.933 Accuracy: 0.982
+Noise_rate: 35 n: 7
+Recall: 0.784 Precision: 0.889 Accuracy: 0.988
+Noise_rate: 35 n: 8
+Recall: 0.627 Precision: 1.000 Accuracy: 0.986
+Noise_rate: 35 n: 9
+Recall: 0.627 Precision: 0.970 Accuracy: 0.985
+Noise_rate: 35 n: 10
+Recall: 0.745 Precision: 0.950 Accuracy: 0.989
+Noise_rate: 40 n: 1
+Recall: 0.608 Precision: 0.969 Accuracy: 0.985
+Noise_rate: 40 n: 2
+Recall: 0.647 Precision: 0.943 Accuracy: 0.985
+Noise_rate: 40 n: 3
+Recall: 0.627 Precision: 0.941 Accuracy: 0.985
+Noise_rate: 40 n: 4
+Recall: 0.647 Precision: 0.943 Accuracy: 0.985
+Noise_rate: 40 n: 5
+Recall: 0.549 Precision: 0.966 Accuracy: 0.982
+Noise_rate: 40 n: 6
+Recall: 0.686 Precision: 0.875 Accuracy: 0.985
+Noise_rate: 40 n: 7
+Recall: 0.588 Precision: 1.000 Accuracy: 0.985
+Noise_rate: 40 n: 8
+Recall: 0.588 Precision: 0.937 Accuracy: 0.983
+Noise_rate: 40 n: 9
+Recall: 0.627 Precision: 0.914 Accuracy: 0.984
+Noise_rate: 40 n: 10
+Recall: 0.627 Precision: 0.914 Accuracy: 0.984
+
+Process finished with exit code 0

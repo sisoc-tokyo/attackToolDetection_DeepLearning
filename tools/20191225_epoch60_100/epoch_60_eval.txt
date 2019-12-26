@@ -1,0 +1,1952 @@
+30
+True value: HTran
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 0
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 1
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+-------------------------
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 2
+Recall: 1.000 Precision: 0.944 Accuracy: 0.998
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 3
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+893
+True value: HTran
+Predicted value: empire
+
+1055
+True value: HTran
+Predicted value: empire
+
+Noise_rate: 0 n: 4
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 5
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1076
+True value: mimikatz
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 6
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 7
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 8
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 9
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+844
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 10
+Recall: 0.882 Precision: 0.978 Accuracy: 0.995
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 11
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: HTran
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 12
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+335
+True value: normal
+Predicted value: empire
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 13
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 14
+Recall: 1.000 Precision: 0.981 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+207
+True value: caidao
+Predicted value: normal
+
+281
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 15
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 16
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 17
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 18
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+281
+True value: normal
+Predicted value: mimikatz
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 19
+Recall: 1.000 Precision: 0.944 Accuracy: 0.998
+-------------------------
+
+281
+True value: normal
+Predicted value: mimikatz
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 20
+Recall: 1.000 Precision: 0.927 Accuracy: 0.997
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 21
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: HTran
+
+Noise_rate: 0 n: 22
+Recall: 1.000 Precision: 0.981 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: caidao
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 23
+Recall: 0.941 Precision: 0.923 Accuracy: 0.995
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 24
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1055
+True value: HTran
+Predicted value: empire
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 25
+Recall: 0.941 Precision: 1.000 Accuracy: 0.998
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 26
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: HTran
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 27
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 28
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: empire
+
+335
+True value: normal
+Predicted value: HTran
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1151
+True value: normal
+Predicted value: HTran
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1357
+True value: mimikatz
+Predicted value: empire
+
+Noise_rate: 0 n: 29
+Recall: 0.961 Precision: 0.925 Accuracy: 0.996
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: empire
+
+1173
+True value: normal
+Predicted value: empire
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 30
+Recall: 0.961 Precision: 0.942 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 31
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+844
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 32
+Recall: 0.882 Precision: 1.000 Accuracy: 0.996
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 33
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: HTran
+
+1028
+True value: empire
+Predicted value: normal
+
+1151
+True value: normal
+Predicted value: empire
+
+1271
+True value: normal
+Predicted value: empire
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 34
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: caidao
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 35
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 36
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 37
+Recall: 0.961 Precision: 0.961 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 38
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 39
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+109
+True value: mimikatz
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 40
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 41
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+635
+True value: empire
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 42
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+-------------------------
+
+Noise_rate: 0 n: 43
+Recall: 1.000 Precision: 1.000 Accuracy: 1.000
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 44
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1151
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 45
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 46
+Recall: 1.000 Precision: 0.927 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1151
+True value: normal
+Predicted value: caidao
+
+Noise_rate: 0 n: 47
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: caidao
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 48
+Recall: 0.922 Precision: 0.959 Accuracy: 0.996
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1151
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 49
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: HTran
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 50
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: caidao
+
+Noise_rate: 0 n: 51
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 52
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+635
+True value: empire
+Predicted value: normal
+
+1151
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: HTran
+
+Noise_rate: 0 n: 53
+Recall: 0.961 Precision: 0.961 Accuracy: 0.997
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: caidao
+
+754
+True value: HTran
+Predicted value: mimikatz
+
+893
+True value: HTran
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1055
+True value: HTran
+Predicted value: empire
+
+Noise_rate: 0 n: 54
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+893
+True value: HTran
+Predicted value: empire
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 55
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1260
+True value: normal
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 56
+Recall: 1.000 Precision: 0.911 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: HTran
+
+Noise_rate: 0 n: 57
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: HTran
+
+754
+True value: HTran
+Predicted value: empire
+
+893
+True value: HTran
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 58
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 59
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+281
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 60
+Recall: 1.000 Precision: 0.981 Accuracy: 0.999
+-------------------------
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 61
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 62
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 63
+Recall: 0.980 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 64
+Recall: 0.961 Precision: 0.961 Accuracy: 0.997
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+844
+True value: mimikatz
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 65
+Recall: 0.882 Precision: 0.937 Accuracy: 0.993
+-------------------------
+
+Noise_rate: 0 n: 66
+Recall: 1.000 Precision: 1.000 Accuracy: 1.000
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1151
+True value: normal
+Predicted value: empire
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 67
+Recall: 0.922 Precision: 0.940 Accuracy: 0.995
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: caidao
+
+368
+True value: mimikatz
+Predicted value: caidao
+
+527
+True value: mimikatz
+Predicted value: caidao
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 68
+Recall: 0.902 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+281
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: normal
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+844
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 69
+Recall: 0.863 Precision: 0.957 Accuracy: 0.993
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1203
+True value: caidao
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 70
+Recall: 0.922 Precision: 1.000 Accuracy: 0.997
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 71
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 72
+Recall: 0.961 Precision: 0.942 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 73
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: caidao
+
+1173
+True value: normal
+Predicted value: caidao
+
+1203
+True value: caidao
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 74
+Recall: 0.922 Precision: 0.959 Accuracy: 0.996
+-------------------------
+
+30
+True value: HTran
+Predicted value: normal
+
+91
+True value: HTran
+Predicted value: normal
+
+281
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: caidao
+
+452
+True value: HTran
+Predicted value: empire
+
+453
+True value: HTran
+Predicted value: empire
+
+595
+True value: HTran
+Predicted value: normal
+
+754
+True value: HTran
+Predicted value: empire
+
+804
+True value: HTran
+Predicted value: normal
+
+891
+True value: HTran
+Predicted value: normal
+
+893
+True value: HTran
+Predicted value: normal
+
+894
+True value: HTran
+Predicted value: empire
+
+1028
+True value: empire
+Predicted value: normal
+
+1055
+True value: HTran
+Predicted value: normal
+
+1110
+True value: HTran
+Predicted value: normal
+
+1113
+True value: HTran
+Predicted value: normal
+
+1140
+True value: normal
+Predicted value: mimikatz
+
+1204
+True value: HTran
+Predicted value: empire
+
+Noise_rate: 0 n: 75
+Recall: 0.706 Precision: 0.923 Accuracy: 0.987
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+350
+True value: mimikatz
+Predicted value: caidao
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 76
+Recall: 0.922 Precision: 0.979 Accuracy: 0.996
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 77
+Recall: 0.941 Precision: 0.941 Accuracy: 0.996
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 78
+Recall: 0.980 Precision: 0.980 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: HTran
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 79
+Recall: 0.961 Precision: 0.942 Accuracy: 0.996
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+281
+True value: normal
+Predicted value: mimikatz
+
+335
+True value: normal
+Predicted value: HTran
+
+893
+True value: HTran
+Predicted value: empire
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 80
+Recall: 0.941 Precision: 0.960 Accuracy: 0.996
+-------------------------
+
+335
+True value: normal
+Predicted value: empire
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 81
+Recall: 1.000 Precision: 0.962 Accuracy: 0.999
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1140
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 82
+Recall: 0.961 Precision: 0.925 Accuracy: 0.996
+-------------------------
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 83
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 84
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1151
+True value: normal
+Predicted value: empire
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 85
+Recall: 1.000 Precision: 0.944 Accuracy: 0.998
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 86
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+30
+True value: HTran
+Predicted value: normal
+
+440
+True value: normal
+Predicted value: empire
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+Noise_rate: 0 n: 87
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: caidao
+
+335
+True value: normal
+Predicted value: mimikatz
+
+350
+True value: mimikatz
+Predicted value: caidao
+
+1357
+True value: mimikatz
+Predicted value: caidao
+
+Noise_rate: 0 n: 88
+Recall: 0.941 Precision: 0.980 Accuracy: 0.997
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 89
+Recall: 0.961 Precision: 1.000 Accuracy: 0.999
+-------------------------
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1203
+True value: caidao
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 90
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 91
+Recall: 1.000 Precision: 0.927 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: caidao
+
+1055
+True value: HTran
+Predicted value: normal
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 92
+Recall: 0.980 Precision: 0.962 Accuracy: 0.998
+-------------------------
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: empire
+
+1173
+True value: normal
+Predicted value: empire
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 93
+Recall: 0.961 Precision: 0.961 Accuracy: 0.997
+-------------------------
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: caidao
+
+1173
+True value: normal
+Predicted value: caidao
+
+1203
+True value: caidao
+Predicted value: normal
+
+Noise_rate: 0 n: 94
+Recall: 0.922 Precision: 0.959 Accuracy: 0.996
+-------------------------
+
+143
+True value: mimikatz
+Predicted value: normal
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+844
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 95
+Recall: 0.882 Precision: 1.000 Accuracy: 0.996
+-------------------------
+
+109
+True value: mimikatz
+Predicted value: normal
+
+143
+True value: mimikatz
+Predicted value: normal
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: HTran
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1357
+True value: mimikatz
+Predicted value: normal
+
+Noise_rate: 0 n: 96
+Recall: 0.863 Precision: 0.978 Accuracy: 0.994
+-------------------------
+
+207
+True value: caidao
+Predicted value: normal
+
+335
+True value: normal
+Predicted value: mimikatz
+
+1028
+True value: empire
+Predicted value: normal
+
+Noise_rate: 0 n: 97
+Recall: 0.961 Precision: 0.980 Accuracy: 0.998
+-------------------------
+
+335
+True value: normal
+Predicted value: HTran
+
+893
+True value: HTran
+Predicted value: empire
+
+1151
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 98
+Recall: 0.980 Precision: 0.943 Accuracy: 0.997
+-------------------------
+
+335
+True value: normal
+Predicted value: mimikatz
+
+350
+True value: mimikatz
+Predicted value: normal
+
+368
+True value: mimikatz
+Predicted value: normal
+
+527
+True value: mimikatz
+Predicted value: normal
+
+1028
+True value: empire
+Predicted value: normal
+
+1071
+True value: normal
+Predicted value: mimikatz
+
+1173
+True value: normal
+Predicted value: mimikatz
+
+1271
+True value: normal
+Predicted value: empire
+
+Noise_rate: 0 n: 99
+Recall: 0.922 Precision: 0.922 Accuracy: 0.994
+-------------------------
+
